@@ -139,7 +139,7 @@ If you'd like to improve this repository:
 
 ---
 
-##License
+License
 
 This project is licensed under the **MIT License**.
 
